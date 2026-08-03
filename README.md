@@ -59,25 +59,6 @@ The design follows a modular architecture where each functional block is develop
 
 ---
 
-## Repository Structure
-
-```
-├── RTL/
-│   ├── four_bit_alu.v
-│   ├── full_adder.v
-│   ├── full_subtractor.v
-│   └── mux.v
-│
-├── Testbench/
-│   └── alu_tb.v
-│
-├── Documentation/
-│   └── VLSI_Lab_Report.pdf
-│
-└── README.md
-```
-
----
 
 ## Learning Outcomes
 
